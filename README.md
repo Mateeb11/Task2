@@ -8,4 +8,4 @@ in the arduino file i just wrote tha code based what i searched online, because 
 i used [Wokwi](https://wokwi.com/) simulator and used servo motor as a demo, the simulation is only for showing the logic for moving something in Arduino IDE, you can see the simulation [here](https://wokwi.com/projects/339065590864937554)
 
 # Note
-this code i wrote based on assumption that it will work with the servo motor, I am note sure it will work because i didn't test it with any motor or arm.
+this code i wrote based on assumption that it will work with the servo motor, I am not sure it will work because i didn't test it with any motor or arm.
